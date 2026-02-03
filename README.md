@@ -17,7 +17,7 @@ The project allows students to conduct econometric research on a topic of their 
 - <b>Instrumental Variable (IV) / Two-Stage Least Squares Model</b>
 - <b>IV with FE Model</b>
 
-<h2>Other Simple Models and Tests Used</h2>
+<h2>Other Models and Tests Used</h2>
 
 - <b>OLS Model</b>
 - <b>Breusch-Pagan Test</b>
