@@ -12,15 +12,15 @@ The project allows students to conduct econometric research on a topic of their 
 
 <h2>Advanced Econometric Models and Tests Used</h2>
 
-- <b>Hausman Test</b>
-- <b>Fixed Effects (FE) and Random Effects Model</b>
-- <b>Instrumental Variable (IV) / Two-Stage Least Squares Model</b>
-- <b>IV with FE Model</b>
+- Hausman Test
+- Fixed Effects (FE) and Random Effects Model
+- Instrumental Variable (IV) / Two-Stage Least Squares Model
+- IV with FE Model
 
 <h2>Other Models and Tests Used</h2>
 
-- <b>OLS Model</b>
-- <b>Breusch-Pagan Test</b>
-- <b>Variance Inflation Factor (VIF) Checks</b>
-- <b>Log Transformations</b>
-- <b>Many Interaction Terms</b>
+- OLS Model
+- Breusch-Pagan Test
+- Variance Inflation Factor (VIF) Checks
+- Log Transformations
+- Many Interaction Terms
